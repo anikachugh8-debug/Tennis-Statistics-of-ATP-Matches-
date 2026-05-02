@@ -38,7 +38,7 @@ This project created three main insights using `ggplot2`:
 
 3. Global Distribution Map: a world map showing the top pro player producing nations with a gradient scale over the 10 year span of these matches being played
 
-<img src="https://github.com/anikachugh8-debug/Tennis-Statistics-of-ATP-Matches-/blob/main/global%20dist2.pdf" alt="Win Probability" width="500">
+<img src="https://github.com/anikachugh8-debug/Tennis-Statistics-of-ATP-Matches-/blob/main/global%20dist%203.png" width="300">
 
 
     
