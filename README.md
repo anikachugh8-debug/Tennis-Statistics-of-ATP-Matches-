@@ -20,7 +20,16 @@ This project uses ATP Matches from 2014 - 2016
 
 ## Methodology
 This analysis is all done in R, using alot of "dplyr" and "tidyverse".
-- # Data Integration
+- **Data Integration**: Merged 10 years of match tables into a single data frame using `bind_rows`
+- **Validation Logic**: I applied filters to excluse matches with walkovers and retirements to allow for the findings to be focused on just competitive play
+- **Momentum Logic**: Developed custom logic using `substr` and `mutate` to create first set winners from the ATP scores
+- **Geospatial Mapping**: Calculated unique professional player volume per nation using `distinct` and mapped the findings through `geom_polygon` and `ggrepel`
+
+## Key Visualizations
+This project created three main insights using `ggplot2`:
+
+1. Win Probability Distribution: shows the win percentages of those matches where first set was won or lost
+   <img src="[]" alt="[IMAGE DESCRIPTION HERE]" width="200">
 
 
 
