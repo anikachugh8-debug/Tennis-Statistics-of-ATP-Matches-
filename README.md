@@ -38,8 +38,12 @@ This project created three main insights using `ggplot2`:
 
 3. Global Distribution Map: a world map showing the top pro player producing nations with a gradient scale over the 10 year span of these matches being played
 
-<img src="https://github.com/anikachugh8-debug/Tennis-Statistics-of-ATP-Matches-/blob/main/global%20dist%203.png" width="300">
+<img src="https://github.com/anikachugh8-debug/Tennis-Statistics-of-ATP-Matches-/blob/main/global%20dist%203.png" width="500">
 
+## Setups
+1. Make sure you have the `tidyverse`, `ggrepel`, `ggplot2`, `maps`, and `dplyr` installed.
+2. Make sure the ATP 2014 - 2024 csv files are in your working directory
+3. Run the `Final Final Project.R` in RStudio
 
     
 
