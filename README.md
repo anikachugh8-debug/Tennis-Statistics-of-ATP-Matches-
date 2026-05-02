@@ -4,7 +4,7 @@ ECON 4970 - Data Science for Economics
 May 2026
 
 ## Project Overview 
-This project contains a deep analysis of ATP Tour match data spanning from 2010 - 2014. The study
+This project contains a deep analysis of ATP Tour match data spanning from 2014 - 2024. The study
 focuses on physical performances and global distrubutions of professional talent.
 
 
