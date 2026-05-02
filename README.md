@@ -29,7 +29,7 @@ This analysis is all done in R, using alot of "dplyr" and "tidyverse".
 This project created three main insights using `ggplot2`:
 
 1. Win Probability Distribution: shows the win percentages of those matches where first set was won or lost
-   <img src="https://github.com/anikachugh8-debug/Tennis-Statistics-of-ATP-Matches-/blob/main/first%20set%20stats.png" alt="Win Probability" width="200">
+   <img src="https://github.com/anikachugh8-debug/Tennis-Statistics-of-ATP-Matches-/blob/main/first%20set%20stats.png" alt="Win Probability" width="500">
 
    
 
