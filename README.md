@@ -17,6 +17,7 @@ focuses on physical performances and global distrubutions of professional talent
 This project uses ATP Matches spanning from 2014 to 2024
 - **Temporal Scope**: The study uses longitudinal dataset from 2014 - 2024 allowing the observations of long term trends in pro tennis
 - **Data**: Specific match performance statistics (aces, set scores, match outcomes, etc.) are linked with player specific demographics such as IOC codes and player IDs
+- **Github**: Data all came from `https://github.com/JeffSackmann/tennis_atp`
 
 ## Methodology
 This analysis is all done in R, using alot of "dplyr" and "tidyverse".
