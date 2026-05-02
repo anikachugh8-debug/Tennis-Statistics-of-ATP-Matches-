@@ -14,9 +14,9 @@ focuses on physical performances and global distrubutions of professional talent
 - I take a broader view of the ten years and take a look at which countries produce the highest number of pros.
 
 ## Dataset
-This project uses ATP Matches from 2014 - 2016
-- The project involves cobinging the player demographic tables with those of specific match performance statistics(aces, break points, set scores, etc.)
-- 10 years of professional tour data
+This project uses ATP Matches spanning from 2014 to 2024
+- **Temporal Scope**: The study uses longitudinal dataset from 2014 - 2024 allowing the observations of long term trends in pro tennis
+- **Data**: Specific match performance statistics (aces, set scores, match outcomes, etc.) are linked with player specific demographics such as IOC codes and player IDs
 
 ## Methodology
 This analysis is all done in R, using alot of "dplyr" and "tidyverse".
