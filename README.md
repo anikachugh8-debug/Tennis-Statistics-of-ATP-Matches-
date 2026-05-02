@@ -34,7 +34,7 @@ This project created three main insights using `ggplot2`:
 
 2. The Aces Impact: shows the win percentages of those matches with higher aces
 
-   <img src="" alt="Win Probability" width="500">
+   <img src="https://github.com/anikachugh8-debug/Tennis-Statistics-of-ATP-Matches-/blob/main/ace%20stats.png" alt="Win Probability" width="500">
 
    
 
